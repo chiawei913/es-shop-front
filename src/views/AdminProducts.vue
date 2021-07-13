@@ -132,7 +132,7 @@ export default {
       if (this.submitDisable) {
         event.preventDefault()
         return
-      } 
+      }
       this.form = {
         name: '',
         price: 0,
